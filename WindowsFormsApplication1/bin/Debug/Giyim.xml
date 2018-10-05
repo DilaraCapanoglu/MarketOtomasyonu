@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<GiyimListesi>
+  <xs:schema id="GiyimListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="GiyimListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Giyim">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Kategori" type="xs:string" minOccurs="0" />
+                <xs:element name="Ürün_x0020_Adı" type="xs:string" minOccurs="0" />
+                <xs:element name="Ürün_x0020_Fiyatı" type="xs:string" minOccurs="0" />
+                <xs:element name="Son_x0020_Kullanma" type="xs:string" minOccurs="0" />
+                <xs:element name="Üretim_x0020_Tarihi" type="xs:string" minOccurs="0" />
+                <xs:element name="Stok" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Giyim>
+    <Ürün_x0020_Adı>kazak</Ürün_x0020_Adı>
+    <Ürün_x0020_Fiyatı>40</Ürün_x0020_Fiyatı>
+    <Son_x0020_Kullanma>06-06-2017</Son_x0020_Kullanma>
+    <Üretim_x0020_Tarihi>06-06-2017</Üretim_x0020_Tarihi>
+    <Stok>20</Stok>
+  </Giyim>
+  <Giyim>
+    <Ürün_x0020_Adı>pantolon</Ürün_x0020_Adı>
+    <Ürün_x0020_Fiyatı>45</Ürün_x0020_Fiyatı>
+    <Son_x0020_Kullanma>06-06-2017</Son_x0020_Kullanma>
+    <Üretim_x0020_Tarihi>06-06-2017</Üretim_x0020_Tarihi>
+    <Stok>20</Stok>
+  </Giyim>
+  <Giyim>
+    <Ürün_x0020_Adı>gömlek</Ürün_x0020_Adı>
+    <Ürün_x0020_Fiyatı>40</Ürün_x0020_Fiyatı>
+    <Son_x0020_Kullanma>08-06-2017</Son_x0020_Kullanma>
+    <Üretim_x0020_Tarihi>08-06-2030</Üretim_x0020_Tarihi>
+    <Stok>20</Stok>
+  </Giyim>
+  <Giyim>
+    <Ürün_x0020_Adı>pantolon</Ürün_x0020_Adı>
+    <Ürün_x0020_Fiyatı>45</Ürün_x0020_Fiyatı>
+    <Son_x0020_Kullanma>08-06-2017</Son_x0020_Kullanma>
+    <Üretim_x0020_Tarihi>08-06-2017</Üretim_x0020_Tarihi>
+    <Stok>20</Stok>
+  </Giyim>
+  <Giyim>
+    <Ürün_x0020_Adı>krvat</Ürün_x0020_Adı>
+    <Ürün_x0020_Fiyatı>45</Ürün_x0020_Fiyatı>
+    <Son_x0020_Kullanma>09-06-2017</Son_x0020_Kullanma>
+    <Üretim_x0020_Tarihi>09-06-2023</Üretim_x0020_Tarihi>
+    <Stok>20</Stok>
+  </Giyim>
+</GiyimListesi>

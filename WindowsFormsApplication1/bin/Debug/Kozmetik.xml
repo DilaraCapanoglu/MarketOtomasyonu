@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<KozmetikListesi>
+  <xs:schema id="KozmetikListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="KozmetikListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Kozmetik">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Kategori" type="xs:string" minOccurs="0" />
+                <xs:element name="Ürün_x0020_Adı" type="xs:string" minOccurs="0" />
+                <xs:element name="Ürün_x0020_Fiyatı" type="xs:string" minOccurs="0" />
+                <xs:element name="Son_x0020_Kullanma" type="xs:string" minOccurs="0" />
+                <xs:element name="Üretim_x0020_Tarihi" type="xs:string" minOccurs="0" />
+                <xs:element name="Stok" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</KozmetikListesi>

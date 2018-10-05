@@ -1,0 +1,52 @@
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\marketotomasyon.csprojResolveAssemblyReference.cache
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\marketotomasyon.csproj.GenerateResource.Cache
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+c:\users\inspiron\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\marketotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\marketotomasyon.csproj.GenerateResource.Cache
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\marketotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Inspiron\Desktop\market_otomasyonu\WindowsFormsApplication1\obj\Debug\marketotomasyon.csproj.GenerateResource.Cache
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\marketotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Inspiron\Desktop\marketotomasyon\WindowsFormsApplication1\obj\Debug\marketotomasyon.csproj.GenerateResource.Cache

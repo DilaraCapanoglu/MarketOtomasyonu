@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<UrunListesi>
+  <xs:schema id="UrunListesi" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="UrunListesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Urunler">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="UAdı" type="xs:string" minOccurs="0" />
+                <xs:element name="UFiyat" type="xs:string" minOccurs="0" />
+                <xs:element name="SKullnma" type="xs:string" minOccurs="0" />
+                <xs:element name="UTarihi" type="xs:string" minOccurs="0" />
+                <xs:element name="Stok" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Urunler>
+    <UAdı>9</UAdı>
+    <UFiyat>9</UFiyat>
+    <SKullnma>9</SKullnma>
+    <UTarihi>9</UTarihi>
+    <Stok>9</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>ad</UAdı>
+    <UFiyat>32</UFiyat>
+    <SKullnma>32</SKullnma>
+    <UTarihi>3</UTarihi>
+    <Stok>3</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>deterjan</UAdı>
+    <UFiyat>23</UFiyat>
+    <SKullnma>1</SKullnma>
+    <UTarihi>2</UTarihi>
+    <Stok>2</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>ds</UAdı>
+    <UFiyat>32</UFiyat>
+    <SKullnma>03-03-2003</SKullnma>
+    <UTarihi>23-03-2003</UTarihi>
+    <Stok>34</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>ds</UAdı>
+    <UFiyat>4</UFiyat>
+    <SKullnma>04-04-1943</SKullnma>
+    <UTarihi>23-04-1942</UTarihi>
+    <Stok>21</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>d</UAdı>
+    <UFiyat>4</UFiyat>
+    <SKullnma>19-05-2017</SKullnma>
+    <UTarihi>19-05-2017</UTarihi>
+    <Stok>3</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>sakız</UAdı>
+    <UFiyat>12</UFiyat>
+    <SKullnma>21-05-2017</SKullnma>
+    <UTarihi>21-05-2017</UTarihi>
+    <Stok>12</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>sakız</UAdı>
+    <UFiyat>12</UFiyat>
+    <SKullnma>23-05-2017</SKullnma>
+    <UTarihi>23-05-2017</UTarihi>
+    <Stok>5</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>çikolata</UAdı>
+    <UFiyat>1</UFiyat>
+    <SKullnma>28-05-2017</SKullnma>
+    <UTarihi>28-05-2017</UTarihi>
+    <Stok>40</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>kalem</UAdı>
+    <UFiyat>4</UFiyat>
+    <SKullnma>30-05-2017</SKullnma>
+    <UTarihi>30-05-2017</UTarihi>
+    <Stok>4</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>şampuan</UAdı>
+    <UFiyat>12</UFiyat>
+    <SKullnma>31-05-2017</SKullnma>
+    <UTarihi>01-01-2023</UTarihi>
+    <Stok>20</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>şampuan</UAdı>
+    <UFiyat>12</UFiyat>
+    <SKullnma>31-05-2017</SKullnma>
+    <UTarihi>01-01-2071</UTarihi>
+    <Stok>20</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>silgi</UAdı>
+    <UFiyat>1</UFiyat>
+    <SKullnma>01-06-2017</SKullnma>
+    <UTarihi>01-06-2017</UTarihi>
+    <Stok>23</Stok>
+  </Urunler>
+  <Urunler>
+    <UAdı>makarna</UAdı>
+    <UFiyat>3</UFiyat>
+    <SKullnma>01-06-2017</SKullnma>
+    <UTarihi>01-06-2017</UTarihi>
+    <Stok>20</Stok>
+  </Urunler>
+</UrunListesi>
